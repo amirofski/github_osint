@@ -1,0 +1,12 @@
+# GitHub OSINT Intelligence Tool - Python Dependencies
+# Required packages for running the tool
+
+# HTTP Library for GitHub API requests
+requests==2.31.0
+
+# Environment variables management (.env file support)
+python-dotenv==1.0.0
+
+# Optional: For enhanced functionality
+# certifi==2024.1.1  # SSL certificate verification
+# urllib3==2.1.0     # Advanced HTTP client
